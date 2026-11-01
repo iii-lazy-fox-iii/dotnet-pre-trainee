@@ -1,1 +1,3 @@
-The first module of the course has begun.
+## Progress
+
+- Module 0: In Progress
